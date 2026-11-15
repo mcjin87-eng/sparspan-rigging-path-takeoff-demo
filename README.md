@@ -1,181 +1,373 @@
 # SparSpan Lite — Free View-Only Rigging Takeoff Demo
 
-### Explore a miniature rigging path takeoff workflow before considering the Pro version.
+### Explore miniature ship rigging paths, cord lengths, and schematic diagrams — free, online or offline.
 
-**Free Demo | View-Only | No Purchase Required**
+**Free Demo · Live Browser Access · Offline HTML App · View-Only · No Account Required**
 
-SparSpan Lite is a free, view-only demonstration designed to introduce a miniature rigging path takeoff workflow.
+SparSpan Lite is a free, view-only rigging path takeoff demonstration for miniature-ship hobbyists who want to explore how a structured cord-path planning workflow is presented.
 
-Explore the demonstration, understand its basic concept, and decide whether you want to learn more about SparSpan Pro.
+Using the fictional **Cedar Gull** example, you can inspect:
 
-[![Get Free SparSpan Lite](https://img.shields.io/badge/GET_FREE-SPARSPAN_LITE-238636?style=for-the-badge)](https://mcjinster.gumroad.com/l/sparspan-lite)
+- **10 predefined reference points**
+- **7 straight-line cord paths**
+- **A live sample cut list**
+- **Grouped thread totals**
+- **Schematic XY and XZ diagrams**
 
-[![Explore SparSpan Pro](https://img.shields.io/badge/EXPLORE-SPARSPAN_PRO-2563EB?style=for-the-badge)](https://mcjinster.gumroad.com/l/sparspan-rigging)
+Try the demonstration immediately in your browser, or download the ZIP to run the same free edition locally.
 
----
+No account or installation is required to try the live demo.
 
-## 🎯 The Problem
+### Try SparSpan Lite for Free
 
-Understanding an unfamiliar rigging path takeoff workflow can be difficult without seeing an example first.
+[![Launch Free Live Demo](https://img.shields.io/badge/LAUNCH-FREE_LIVE_DEMO-238636?style=for-the-badge)](https://mcjin87-eng.github.io/sparspan-rigging-path-takeoff-demo/)
 
-Before purchasing a specialized digital tool, you may want to:
+[![Download Free ZIP](https://img.shields.io/badge/DOWNLOAD-FREE_OFFLINE_ZIP-2563EB?style=for-the-badge)](./SparSpan-Lite-Free-Edition-v1.0.0.zip)
 
-- Understand the basic workflow concept.
-- See how a miniature takeoff demonstration is presented.
-- Explore the example without committing to a paid product.
-- Decide whether the broader SparSpan product is relevant to your needs.
+### SparSpan Lite — App Preview
 
-**SparSpan Lite provides a free starting point for that exploration.**
+![SparSpan Lite screenshot showing the fictional Cedar Gull rigging takeoff demonstration, including schematic diagrams and sample takeoff information](./sparspan-lite-screenshot.png)
 
----
+*Actual SparSpan Lite application screenshot. The Cedar Gull miniature-ship example is fictional, and the XY/XZ rigging diagrams are schematic illustrations for demonstration and evaluation, not engineering drawings.*
 
-## 🆓 What's Included in SparSpan Lite?
+**Prefer the full editable edition?**
 
-### Free View-Only Demonstration
-
-SparSpan Lite offers:
-
-- **Miniature Workflow Demo:** View a small-scale demonstration of a rigging path takeoff workflow.
-- **View-Only Experience:** Examine the demonstration without modifying its contents.
-- **Free Access:** Obtain the Lite demonstration through Gumroad.
-- **Product Preview:** Get an introduction to the SparSpan concept before exploring the paid version.
-
-### Important Lite Limitations
-
-SparSpan Lite is strictly a view-only demonstration.
-
-It does not include:
-
-- Editable workflow functionality.
-- Data entry or modification capabilities.
-- File or data export functionality.
-- A complete production-ready rigging takeoff system.
-
-The Lite version is intended for demonstration and evaluation only.
+[![Explore SparSpan Pro](https://img.shields.io/badge/EXPLORE-SPARSPAN_PRO-7C3AED?style=for-the-badge)](https://mcjinster.gumroad.com/l/sparspan-rigging)
 
 ---
 
-## ⚖️ SparSpan Lite vs. SparSpan Pro
+## The Problem: Rigging Paths Are Easier to Understand When You Can See Them
 
-Not sure which version to explore?
+Miniature ship rigging can involve multiple reference points, cord paths, estimated lengths, and grouped thread requirements.
 
-| Feature | 🆓 SparSpan Lite | ⭐ SparSpan Pro |
+Before adopting a digital planning workflow, hobbyists may want to understand:
+
+- How reference points relate to straight-line cord paths.
+- How a sample cut list presents individual cord lengths.
+- How thread requirements can be grouped into totals.
+- How schematic diagrams represent paths from different views.
+- Whether a complete, editable rigging takeoff workflow would be useful.
+
+**SparSpan Lite provides a small, concrete example you can explore before purchasing the full edition.**
+
+It is a demonstration, not a complete rigging design or engineering system.
+
+---
+
+## What's Included in SparSpan Lite?
+
+### 1. Fictional Cedar Gull Example
+
+Explore a predefined miniature-ship rigging example called **Cedar Gull**.
+
+| Example Element | Included |
+|---|---|
+| Fictional miniature ship | Cedar Gull |
+| Reference points | 10 |
+| Straight-line cord paths | 7 |
+| Editable geometry | No |
+| Custom projects | No |
+
+The example is provided for viewing and evaluation.
+
+### 2. Live Sample Cut List
+
+View a sample cut list associated with the predefined rigging paths.
+
+The demonstration illustrates how individual cord paths and their lengths can be presented in a structured takeoff.
+
+**Lite limitation:** The cut list is based on the included fictional example. You cannot edit routes, enter your own geometry, or export the list.
+
+### 3. Grouped Thread Totals
+
+Inspect grouped thread totals for the sample rigging paths.
+
+This illustrates how a takeoff workflow can organize estimated thread requirements across the example.
+
+These totals belong to the demonstration and are not validated material requirements for a real project.
+
+### 4. Schematic XY and XZ Diagrams
+
+View the fictional rigging arrangement through two schematic projections:
+
+- **XY View:** A schematic representation of the reference points and cord paths in the XY plane.
+- **XZ View:** A schematic representation of the reference points and cord paths in the XZ plane.
+
+These views help demonstrate the relationship between the predefined paths and their visual representations.
+
+**Important:** The diagrams are schematic demonstrations, not engineering drawings or fabrication instructions.
+
+### 5. Browser-Based and Offline Access
+
+SparSpan Lite can be accessed in two ways:
+
+**Live Browser Demo**
+- Launch the app directly through GitHub Pages.
+- No download required.
+- No account required.
+- No local installation required.
+
+**Offline HTML Edition**
+- Download and extract the ZIP.
+- Open the included HTML file in a modern browser.
+- Run locally without an account or server.
+- No internet connection required after download.
+
+**Both options provide the same free, view-only SparSpan Lite demonstration.**
+
+Neither option unlocks project editing, saving, exports, or Pro-only functionality.
+
+---
+
+## Try SparSpan Lite — Two Free Options
+
+### Option 1 — Launch the Live Demo (Recommended)
+
+**The fastest way to explore SparSpan Lite.**
+
+Open the free application directly in your browser:
+
+[![Open SparSpan Lite Live Demo](https://img.shields.io/badge/OPEN-LIVE_BROWSER_DEMO-238636?style=for-the-badge)](https://mcjin87-eng.github.io/sparspan-rigging-path-takeoff-demo/)
+
+**Live Demo URL:**
+
+https://mcjin87-eng.github.io/sparspan-rigging-path-takeoff-demo/
+
+No ZIP download, extraction, account, or installation is necessary.
+
+Once the app opens:
+
+1. Explore the fictional Cedar Gull example.
+2. Review the 10 reference points.
+3. Inspect the 7 straight-line cord paths.
+4. View the live sample cut list.
+5. Examine grouped thread totals.
+6. Explore the schematic XY and XZ diagrams.
+
+The live demo is **view-only** and contains the same free demonstration as the downloadable ZIP.
+
+### Option 2 — Download the Offline ZIP
+
+Prefer to keep a local copy?
+
+Download the free edition directly from this GitHub repository.
+
+**File:**
+
+`SparSpan-Lite-Free-Edition-v1.0.0.zip`
+
+[![Download SparSpan Lite ZIP](https://img.shields.io/badge/DOWNLOAD-SPARSPAN_LITE_v1.0.0-2563EB?style=for-the-badge&logo=github)](./SparSpan-Lite-Free-Edition-v1.0.0.zip)
+
+The ZIP contains the offline HTML edition of the same free, view-only demonstration.
+
+You can also access the free product through Gumroad:
+
+[**Get SparSpan Lite Free on Gumroad**](https://mcjinster.gumroad.com/l/sparspan-lite)
+
+---
+
+## How to Run SparSpan Lite Locally
+
+You do not need to install a development environment, run commands, or start a local web server.
+
+### Step 1 — Download the ZIP
+
+Download:
+
+`SparSpan-Lite-Free-Edition-v1.0.0.zip`
+
+Use the GitHub ZIP download link above.
+
+### Step 2 — Extract the ZIP
+
+Extract the ZIP archive to a folder on your computer.
+
+**Windows:**
+Right-click the ZIP and select **Extract All**.
+
+**macOS:**
+Double-click the ZIP to extract its contents.
+
+### Step 3 — Open the Included HTML File
+
+Inside the extracted folder, locate the included `.html` file.
+
+Double-click it or use **Open With** and choose a modern web browser.
+
+### Step 4 — Explore the Demonstration
+
+Inspect the predefined Cedar Gull example:
+
+1. Review the 10 reference points.
+2. Examine the 7 straight-line cord paths.
+3. View the live sample cut list.
+4. Inspect the grouped thread totals.
+5. Explore the schematic XY and XZ diagrams.
+
+The app runs directly from your local files.
+
+**No login, web hosting, or local server is necessary.**
+
+### Step 5 — Decide Whether You Need More
+
+If you want to create and edit your own projects, save and reopen project data, export outputs, or generate a dedicated printable report, explore the paid SparSpan Pro edition.
+
+[**Explore SparSpan Pro →**](https://mcjinster.gumroad.com/l/sparspan-rigging)
+
+---
+
+## Free Lite vs. Paid Pro — Feature Comparison
+
+SparSpan Lite lets you view the example workflow.
+
+**SparSpan Pro adds editable projects and additional file, reporting, and documentation capabilities.**
+
+| Feature | SparSpan Lite — Free | SparSpan Pro — Paid |
 |---|---|---|
-| Access | Free | Paid product |
-| Purpose | Introductory demonstration | Explore the paid SparSpan offering |
-| Rigging path takeoff | Miniature workflow demo | See Pro product listing |
-| Viewing the demo | Yes | See Pro product listing |
-| Editing | Not included | Confirm on Pro product page |
-| Exporting | Not included | Confirm on Pro product page |
-| Product scope | View-only demonstration | Refer to Pro product details |
-| Where to get it | Free Gumroad page | Pro Gumroad page |
+| Miniature-ship rigging takeoff workflow | View-only demonstration | Editable project workflow |
+| Reference points and cord paths | View 10 points and 7 predefined paths | Edit anchors and routes |
+| Sample cut list | View included example | Full-edition workflow |
+| Grouped thread totals | View included example | Full-edition workflow |
+| Schematic XY/XZ diagrams | View included example | Full-edition workflow |
+| Create projects | No | Yes |
+| Edit anchors and routes | No | Yes |
+| Save project as JSON | No | Yes |
+| Reopen saved JSON projects
 
-**Note:** Pro functionality, included files, compatibility, and usage terms should be verified on the official product page before purchasing. This comparison does not imply that unverified features are included in Pro.
 
----
 
-## 🚀 How to Get Started
 
-### Step 1 — Access the Free Demo
 
-Visit the official SparSpan Lite Gumroad page.
 
-**[Get SparSpan Lite for Free](https://mcjinster.gumroad.com/l/sparspan-lite)**
 
-### Step 2 — View the Demonstration
 
-Open the provided demonstration using the access instructions supplied with the download.
 
-Explore the miniature rigging path takeoff workflow.
 
-### Step 3 — Consider Your Requirements
 
-Use the demonstration to assess whether the SparSpan concept is relevant to the workflow you want to understand.
 
-Remember that the Lite version is view-only.
 
-### Step 4 — Explore the Pro Version
 
-If you want to investigate the paid product, review its official listing for current features and contents.
 
-**[View SparSpan Pro](https://mcjinster.gumroad.com/l/sparspan-rigging)**
 
----
 
-## ⭐ Explore SparSpan Pro
 
-### Ready to Look Beyond the Free Demonstration?
 
-SparSpan Lite introduces the workflow concept through a miniature, view-only example.
 
-SparSpan Pro is the separately available paid product.
 
-Visit the official Pro page to review its stated capabilities, included materials, and purchasing information before deciding whether to upgrade.
 
-[![Buy SparSpan Pro](https://img.shields.io/badge/VIEW_%26_BUY-SPARSPAN_PRO-2563EB?style=for-the-badge)](https://mcjinster.gumroad.com/l/sparspan-rigging)
 
-**[Review Pro Product Details →](https://mcjinster.gumroad.com/l/sparspan-rigging)**
 
----
 
-## ❓ Frequently Asked Questions
 
-### Is SparSpan Lite really free?
 
-Yes. SparSpan Lite is offered as a free demonstration through its official Gumroad page.
 
-### Can I edit the Lite demonstration?
 
-No. SparSpan Lite is view-only.
 
-### Can I export takeoff data from Lite?
 
-No. Export functionality is not part of the Lite demonstration.
 
-### Is Lite a complete rigging takeoff tool?
 
-No. It is a miniature demonstration of a workflow, not a complete production-ready system.
 
-### Does SparSpan Pro include editing or exporting?
 
-Check the official SparSpan Pro listing for the current feature set. Those capabilities are not confirmed by the Lite demonstration.
 
-### Can I use the demonstration for real-world rigging operations?
 
-SparSpan Lite is intended for viewing and understanding a workflow concept. It is not a verified engineering, load-calculation, rigging-design, or safety-approval tool.
 
-Do not rely on the demonstration for equipment selection, load ratings, installation, or safety-critical operational decisions.
 
----
 
-## 🔗 Official Links
 
-**Free Version — SparSpan Lite**
 
-https://mcjinster.gumroad.com/l/sparspan-lite
 
-**Paid Version — SparSpan Pro**
 
-https://mcjinster.gumroad.com/l/sparspan-rigging
 
----
 
-## ⚠️ Disclaimer
 
-SparSpan Lite is provided as a free, view-only demonstration.
 
-It does not provide editing, exporting, engineering validation, or operational guarantees.
 
-The demonstration does not replace professional rigging design, qualified technical review, applicable safety standards, or site-specific engineering assessments.
 
-Features and contents of the paid SparSpan Pro product should be confirmed through its official listing.
 
----
 
-### Start With the Free SparSpan Lite Demo
 
-Explore the miniature workflow first. Review the Pro product details when you're ready.
 
-[![Download Free Demo](https://img.shields.io/badge/DOWNLOAD-FREE_DEMO-238636?style=for-the-badge)](https://mcjinster.gumroad.com/l/sparspan-lite)
 
-[![View Paid Version](https://img.shields.io/badge/VIEW-PAID_PRO_VERSION-2563EB?style=for-the-badge)](https://mcjinster.gumroad.com/l/sparspan-rigging)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
