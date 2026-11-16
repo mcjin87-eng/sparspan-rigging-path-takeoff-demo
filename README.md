@@ -1,10 +1,10 @@
-# SparSpan Lite — Free View-Only Rigging Takeoff Demo
+# SparSpan Lite — Free View-Only Rigging Takeoff Demo (GitHub v1.0.0)
 
 ### Explore miniature ship rigging paths, cord lengths, and schematic diagrams — free, online or offline.
 
 **Free Demo · Live Browser Access · Offline HTML App · View-Only · No Account Required**
 
-SparSpan Lite is a free, view-only rigging path takeoff demonstration for miniature-ship hobbyists who want to explore how a structured cord-path planning workflow is presented.
+This GitHub repository’s live page and included ZIP are SparSpan Lite v1.0.0, a free, view-only demonstration for miniature-ship hobbyists. A separate free Gumroad Lite v1.1.0 ZIP allows limited numeric edits to one fictional Cedar Gull project (10 fixed anchors and 7 fixed paths); it does not create projects, add or rename anchors, edit route definitions, save/reopen, or export. It is a limited trial, not the paid Pro edition.
 
 Using the fictional **Cedar Gull** example, you can inspect:
 
@@ -14,11 +14,11 @@ Using the fictional **Cedar Gull** example, you can inspect:
 - **Grouped thread totals**
 - **Schematic XY and XZ diagrams**
 
-Try the demonstration immediately in your browser, or download the ZIP to run the same free edition locally.
+Try this v1.0.0 view-only demo in your browser, or download the repository ZIP to run the same build locally.
 
 No account or installation is required to try the live demo.
 
-### Try SparSpan Lite for Free
+### Try the GitHub Lite v1.0.0 View-Only Demo for Free
 
 [![Launch Free Live Demo](https://img.shields.io/badge/LAUNCH-FREE_LIVE_DEMO-238636?style=for-the-badge)](https://mcjin87-eng.github.io/sparspan-rigging-path-takeoff-demo/)
 
@@ -54,7 +54,7 @@ It is a demonstration, not a complete rigging design or engineering system.
 
 ---
 
-## What's Included in SparSpan Lite?
+## What's Included in the GitHub Lite v1.0.0 View-Only Build?
 
 ### 1. Fictional Cedar Gull Example
 
@@ -99,7 +99,7 @@ These views help demonstrate the relationship between the predefined paths and t
 
 ### 5. Browser-Based and Offline Access
 
-SparSpan Lite can be accessed in two ways:
+This GitHub v1.0.0 build can be accessed in two ways:
 
 **Live Browser Demo**
 - Launch the app directly through GitHub Pages.
@@ -113,17 +113,17 @@ SparSpan Lite can be accessed in two ways:
 - Run locally without an account or server.
 - No internet connection required after download.
 
-**Both options provide the same free, view-only SparSpan Lite demonstration.**
+**Both options above are the same free, view-only GitHub Lite v1.0.0 build.**
 
-Neither option unlocks project editing, saving, exports, or Pro-only functionality.
+A separate free Gumroad Lite v1.1.0 ZIP allows limited numeric edits to the fixed sample only; it does not add anchors or paths, change route definitions, create projects, save/reopen, or export.
 
 ---
 
-## Try SparSpan Lite — Two Free Options
+## Try the GitHub Lite v1.0.0 View-Only Demo — Two Access Options
 
 ### Option 1 — Launch the Live Demo (Recommended)
 
-**The fastest way to explore SparSpan Lite.**
+**The fastest way to explore the GitHub Lite v1.0.0 view-only build.**
 
 Open the free application directly in your browser:
 
@@ -144,7 +144,7 @@ Once the app opens:
 5. Examine grouped thread totals.
 6. Explore the schematic XY and XZ diagrams.
 
-The live demo is **view-only** and contains the same free demonstration as the downloadable ZIP.
+The GitHub Pages live demo is view-only v1.0.0 and contains the same build as the repository ZIP.
 
 ### Option 2 — Download the Offline ZIP
 
@@ -158,11 +158,11 @@ Download the free edition directly from this GitHub repository.
 
 [![Download SparSpan Lite ZIP](https://img.shields.io/badge/DOWNLOAD-SPARSPAN_LITE_v1.0.0-2563EB?style=for-the-badge&logo=github)](./SparSpan-Lite-Free-Edition-v1.0.0.zip)
 
-The ZIP contains the offline HTML edition of the same free, view-only demonstration.
+The ZIP contains the offline HTML edition of the same free, view-only GitHub Lite v1.0.0 build.
 
-You can also access the free product through Gumroad:
+The separate free, interactive Lite v1.1.0 ZIP is available through the existing Gumroad listing:
 
-[**Get SparSpan Lite Free on Gumroad**](https://mcjinster.gumroad.com/l/sparspan-lite)
+[**SparSpan Lite v1.1.0 — Free Interactive ZIP**](https://mcjinster.gumroad.com/l/sparspan-lite)
 
 ---
 
@@ -210,164 +210,22 @@ The app runs directly from your local files.
 
 ### Step 5 — Decide Whether You Need More
 
-If you want to create and edit your own projects, save and reopen project data, export outputs, or generate a dedicated printable report, explore the paid SparSpan Pro edition.
+The free v1.1.0 Lite ZIP only allows numeric edits to one fixed sample. For custom or multiple projects, route-definition editing, JSON save/reopen, CSV/SVG export, or a dedicated printable report, explore the paid SparSpan Pro edition.
 
 [**Explore SparSpan Pro →**](https://mcjinster.gumroad.com/l/sparspan-rigging)
 
 ---
 
-## Free Lite vs. Paid Pro — Feature Comparison
-
-SparSpan Lite lets you view the example workflow.
-
-**SparSpan Pro adds editable projects and additional file, reporting, and documentation capabilities.**
-
-| Feature | SparSpan Lite — Free | SparSpan Pro — Paid |
-|---|---|---|
-| Miniature-ship rigging takeoff workflow | View-only demonstration | Editable project workflow |
-| Reference points and cord paths | View 10 points and 7 predefined paths | Edit anchors and routes |
-| Sample cut list | View included example | Full-edition workflow |
-| Grouped thread totals | View included example | Full-edition workflow |
-| Schematic XY/XZ diagrams | View included example | Full-edition workflow |
-| Create projects | No | Yes |
-| Edit anchors and routes | No | Yes |
-| Save project as JSON | No | Yes |
-| Reopen saved JSON projects
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Feature Comparison: GitHub Lite v1.0.0, Gumroad Lite v1.1.0, and Paid Pro
+
+The first free column applies only to this repository’s GitHub Pages demo and included v1.0.0 ZIP. The Gumroad v1.1.0 ZIP is also free but supports limited numeric editing of one fixed sample; it does not provide custom projects, route-definition editing, or persistence.
+
+| Feature | GitHub Lite v1.0.0 — Free, view-only | Gumroad Lite v1.1.0 — Free, limited interactive | SparSpan Pro — Paid |
+|---|---|---|---|
+| View the fictional Cedar Gull sample | Yes | Yes | Yes |
+| Edit numeric coordinates for 10 fixed anchors | No | Yes | Yes |
+| Adjust quantity and extra-length for 7 fixed paths | No | Yes | Yes |
+| Add or rename anchors; change route definitions | No | No | Yes |
+| Create custom or multiple projects | No | No | Yes |
+| Save or reopen JSON | No | No | Yes |
+| CSV/SVG export or dedicated print report | No | No | Yes |
